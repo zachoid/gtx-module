@@ -3,6 +3,7 @@ person1 = {
   "age": 36,
   "country": "Norway"
 }
+
 person1 = {
   "name": "rohn",
   "age": 36,
@@ -12,4 +13,13 @@ person3= {
   "name": "shrey",
   "age": 36,
   "country": "INDIA"
+person2 = {
+  "name": "ryu",
+  "age": 46,
+  "country": "Los vegas"
+}
+person3 = {
+  "name": "ken",
+  "age": 48,
+  "country": "England"
 }
